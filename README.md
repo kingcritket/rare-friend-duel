@@ -1,6 +1,6 @@
 # Rare Friend Duel
 
-**Builder:** (isi nama / username Twitter atau GitHub kamu)  
+**Builder:** @KingsCritket  
 **Category:** Character Spotlight + Token Activity  
 
 **One sentence:**  
